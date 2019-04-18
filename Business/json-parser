@@ -186,4 +186,3 @@ fi
 
 INPUT_LENGTH="${#INPUT}"
 parse "" "" <<< "${INPUT}"
-
